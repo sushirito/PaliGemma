@@ -1,4 +1,5 @@
 import React from 'react';
+// LandingPage component for the home page
 
 function LandingPage({ onStartDetection }) {
   return (
